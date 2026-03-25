@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0fabc9c-4497-4f8c-b5e0-0151a9e45220" name="Changes" comment="test">
+    <list default="true" id="e0fabc9c-4497-4f8c-b5e0-0151a9e45220" name="Changes" comment="Application Example Graph">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graph9.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,22 +38,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3BIWTk2HFVUHOgRymF0mMB4wj9A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +95,31 @@
       <option name="project" value="LOCAL" />
       <updated>1774191503315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1774191962488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774191962488</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1774192725038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774192725038</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Application Example Graph">
+      <option name="closed" value="true" />
+      <created>1774192816211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774192816211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Application Example Graph" />
+    <option name="LAST_COMMIT_MESSAGE" value="Application Example Graph" />
   </component>
 </project>

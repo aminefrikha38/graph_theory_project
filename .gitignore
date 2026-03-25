@@ -1,2 +1,11 @@
 # created by virtualenv automatically
-*
+*# Ignore virtual environment
+Lib/
+Scripts/
+
+# Ignore PyCharm files
+.idea/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
